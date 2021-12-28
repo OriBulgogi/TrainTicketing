@@ -1,12 +1,18 @@
-# TrainTicketing
+# TrainTicketing (자동 및 입석 예약 가능 열차 예매 시스템
+해당 프로젝트는 요구사항 분석, 설계, 구현의 과정을 정의하고 문서화하는 시스템 분석 및 설계의 관점에서 시도되었습니다.
+프로그램의 구현 내용의 간단한 화면설명은 및 입출력 정의는 "요약"에서 
+설계과정과 개발시 문제해결 과정은 "문서"에서 확인할 수 있습니다.
 
-## 자동 및 입석 예약 가능 열차 예매 시스템
-<img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" /><img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" /><img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" />
 
+## 요약
+1. 로그인 창(첫 화면)
+<img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" />
+- 등록된 ID와 Password 와 다른 ID와 Password 를 입력한 경우 로그인이 되지 않는다. 
+- 로그인 창에서 ‘회원가입’ 버튼을 누르면 회원가입 창으로 넘어간다. 
+- ‘로그인’ 버튼을 누르면 열차 조회하는 창으로 넘어간다.
 
----
 ## 문서
----
+
 ### 1. 서 론
 #### 1-1. 개발 동기
 기존의 철도 예약 서비스(코레일톡)를 사용하면서 불편함을 느꼈다. 매진된 표가 풀릴 경우 자동예약이 불
