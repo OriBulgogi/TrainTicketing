@@ -1,9 +1,9 @@
 # TrainTikecting
 
 
-![image](https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png)
+<!img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" />
 
-자동 및 입석 예약 가능 열차 예매 시스템
+## 자동 및 입석 예약 가능 열차 예매 시스템
 ### 1. 서 론
 #### 1-1. 개발 동기
 기존의 철도 예약 서비스(코레일톡)를 사용하면서 불편함을 느꼈다. 매진된 표가 풀릴 경우 자동예약이 불
