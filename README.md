@@ -1,4 +1,4 @@
-# TrainTikecting
+# TrainTicketing
 
 
 <!img src = "https://user-images.githubusercontent.com/81247213/147555822-f8885bd1-957b-43ce-b8ed-f109bef3debc.png" width ="200" height ="300" />
